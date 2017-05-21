@@ -1,0 +1,26 @@
+.background{
+  background-color: yellow;
+  height: 1320px;
+}
+.heading{
+  background-color: red;
+  height: 15%;
+  margin: 0px;
+}
+.purple{
+  margin: 0px;
+  background-color: purple;
+  width: 66%;
+  height: 70%;
+}
+.blue{
+  margin: 0px;
+  background-color: blue;
+  width: 50%;
+  height: 100%;
+}
+.green{
+  background-color: green;
+  margin: 0 auto;
+  height: 15%;
+}
