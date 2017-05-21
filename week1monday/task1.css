@@ -1,0 +1,21 @@
+.background{
+  background-color: yellow;
+  height: 1800px;
+}
+.heading{
+  background-color: red;
+  height: 12%;
+  margin: 0px;
+}
+.blue{
+  margin: 0 auto;
+  background-color: blue;
+  width: 70%;
+  height: 81%;
+}
+.green{
+  background-color: green;
+  margin: 0 auto;
+  width: 70%;
+  height: 7%;
+}
