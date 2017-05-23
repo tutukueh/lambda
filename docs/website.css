@@ -1,0 +1,91 @@
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  line-height: 1.1;
+}
+h1 {
+  color: white;
+}
+a {
+  color: white;
+  font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+h3 a {
+  font-family: Lora,'Times New Roman',serif;
+}
+
+.author {
+  color: white;
+  font-family: Lora,'Times New Roman',serif;
+  font-style: italic;
+  font-size: 20px;
+  font-weight: 300;
+}
+h2.subheading {
+  color: white;
+  font-size: 30px;
+  weight: 600;
+}
+
+p.caption{
+  font-family: Lora,'Times New Roman',serif;
+  font-style: italic;
+  padding: 10px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.container{
+  margin: 100px auto;
+  padding: 50px;
+  width: 880px;
+  letter-spacing: 1px;
+  font-family: Lora,'Times New Roman',serif;
+  font-size: 20px;
+}
+
+.container h1{
+  font-size: 55px;
+  font-weight: 800;
+  font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+.container-fluid{
+  background-image: url(astronaut1.jpg);
+  background-position: center;
+  height: 600px;
+}
+
+.navbar-default .navbar-nav > li > a{
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 800;
+  color: white;
+}
+
+.navbar-default .navbar-brand{
+  letter-spacing: 1px;
+  font-weight: 800;
+  font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-size: 18px;
+  color: white;
+}
+
+.indented {
+  padding-left: 20px;
+  border-style: hidden hidden hidden solid;
+  border-color: #d3d3d3;
+  border-width: 10px;
+  font-family: Lora,'Times New Roman',serif;
+  font-style: italic;
+  color: grey;
+}
+.navbar-default{
+  background-color: white;
+  border-color: grey;
+  border-bottom: 5px;
+  border-style: hidden hidden solid hidden;
+}
+.footnote{
+  text-align: center;
+}
